@@ -6,7 +6,7 @@ Welcome to **Burger Bliss**, a modern responsive landing page for a burger built
 
 👉 [Visit Burger Bliss](https://burger-bliss-bb.vercel.app/)
 
-![Burger Bliss Screenshot](https://raw.githubusercontent.com/Nebula-gramm/tomatoKing/refs/heads/main/src/assets/homeScreenshot.png)
+![Burger Bliss Screenshot](https://raw.githubusercontent.com/Nebula-gramm/burger-bliss-landing-page/refs/heads/main/public/burger-bliss-bb.png)
 
 ---
 
